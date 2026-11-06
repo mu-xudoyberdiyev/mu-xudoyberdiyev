@@ -1,5 +1,5 @@
-> Yillar davomida tinchlik bermagan muammoni
-> atiga bir necha qator kod bilan hal qilishimga ishonasizmi?
+> Yillar davomida tinçlik bermagan muammoni
+> atiga bir neça qator kod bilan hal qilişimga işonasizmi?
 
 **by** [chopildi.uz](https://chopildi.uz/)
 
